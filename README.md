@@ -3,7 +3,7 @@ Unit conversion GUI made using Python and Tkinter Library for Length and Area co
 
 ## Initial Output Screen:
 
-![](GUI.jepg)
+![](GUI.jpeg)
 
 ## Length
 
